@@ -1,0 +1,21 @@
+body {
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.countersec {
+  width: 25vw;
+  height: 25vh;
+  background: linear-gradient(145deg, #e95d38, #3fdda9);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-weight: bolder;
+  font-size: 1.5em;
+  cursor: pointer;
+}
